@@ -20,3 +20,6 @@ nums = [1,1,2]
 k = solution.removeDuplicates(nums)
 print(k)
 print(nums[:k])
+
+# Time Complexity - O(n)
+# Space Complexity - O(1)
