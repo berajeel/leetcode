@@ -1,5 +1,5 @@
 class solution():
-    def wealth(self, result: List[List[int]]):
+    def wealth(self, result):
         max = 0
         
 
