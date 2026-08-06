@@ -1,0 +1,32 @@
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        s = s.lower()
+        left = 0
+        right = len(s) - 1
+
+        if len(s) == 0 or s == "":
+            return True
+
+        while left < right:
+
+            if not s[left].isalnum():
+                left += 1
+            elif not s[right].isalnum():
+                right -= 1
+            elif s[left] != s[right]:
+                return False
+            else:                
+                left += 1
+                right -= 1
+        
+        return True
+
+
+
+
+
+        
