@@ -4,8 +4,8 @@ Solutions for Leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berajeel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/berajeel/leetcode/tree/master/0027-remove-element) |
@@ -17,13 +17,13 @@ Solutions for Leetcode
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0125-valid-palindrome](https://github.com/berajeel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berajeel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/berajeel/leetcode/tree/master/0027-remove-element) |
@@ -31,26 +31,31 @@ Solutions for Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/berajeel/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/berajeel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/berajeel/leetcode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/berajeel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/berajeel/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/berajeel/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/berajeel/leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
