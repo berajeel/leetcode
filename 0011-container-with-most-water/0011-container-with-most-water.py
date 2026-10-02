@@ -4,25 +4,22 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        
-        left = 0
+
+        left = 0 
         right = len(height) - 1
-        max = 0
-        width = 0
-        area = 0
+        answer = 0
         
         while left < right:
 
             width = right - left
-            heights = min(height[left], height[right])
-            area = width * heights
+            container_height = min(height[left], height[right])
+            area = width * container_height
 
-            if max < area:
-                max = area
-            
+            answer = max(answer, area)
+
             if height[left] < height[right]:
                 left += 1
             else:
                 right -= 1
         
-        return max
+        return answer
