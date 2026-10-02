@@ -5,18 +5,18 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-
+        
         left = 0
         right = len(numbers) - 1
 
         while left < right:
+            total = numbers[left] + numbers[right]
 
-            current = numbers[left] + numbers[right]
-
-            if current == target:
-                return [left+1, right+1]
-            elif current < target:
+            if total == target:
+                return [left + 1, right + 1]
+            elif total < target:
                 left += 1
-            elif current > target:
+            else:
                 right -= 1
         
+        return [-1, -1]
