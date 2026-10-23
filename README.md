@@ -39,6 +39,7 @@ Solutions for Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/berajeel/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/berajeel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/berajeel/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/berajeel/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/berajeel/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
