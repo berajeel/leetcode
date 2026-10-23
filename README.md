@@ -7,6 +7,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/berajeel/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berajeel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/berajeel/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/berajeel/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -30,6 +31,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/berajeel/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berajeel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/berajeel/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/berajeel/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -46,6 +48,7 @@ Solutions for Leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/berajeel/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/berajeel/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
