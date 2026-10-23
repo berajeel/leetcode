@@ -41,6 +41,7 @@ Solutions for Leetcode
 | [0283-move-zeroes](https://github.com/berajeel/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/berajeel/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/berajeel/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,12 +72,14 @@ Solutions for Leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berajeel/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/berajeel/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/berajeel/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
