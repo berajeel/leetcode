@@ -37,6 +37,7 @@ Solutions for Leetcode
 | [0042-trapping-rain-water](https://github.com/berajeel/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/berajeel/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/berajeel/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/berajeel/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/berajeel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/berajeel/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/berajeel/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -104,6 +105,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/berajeel/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/berajeel/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
