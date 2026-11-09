@@ -6,6 +6,7 @@ Solutions for Leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/berajeel/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/berajeel/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/berajeel/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/berajeel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -22,6 +23,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/berajeel/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/berajeel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
@@ -106,6 +108,7 @@ Solutions for Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/berajeel/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/berajeel/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/berajeel/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/berajeel/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -151,4 +154,8 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/berajeel/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/berajeel/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
