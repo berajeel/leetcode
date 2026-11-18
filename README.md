@@ -27,6 +27,7 @@ Solutions for Leetcode
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/berajeel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/berajeel/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berajeel/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -88,6 +89,7 @@ Solutions for Leetcode
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/berajeel/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/berajeel/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/berajeel/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -102,6 +104,7 @@ Solutions for Leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/berajeel/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/berajeel/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -156,6 +159,7 @@ Solutions for Leetcode
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/berajeel/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
