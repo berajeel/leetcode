@@ -25,6 +25,7 @@ Solutions for Leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/berajeel/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/berajeel/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/berajeel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
@@ -88,6 +89,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/berajeel/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/berajeel/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/berajeel/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -106,6 +108,7 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/berajeel/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/berajeel/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/berajeel/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/berajeel/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
